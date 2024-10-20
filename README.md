@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wercade
-- 👀 I’m interested in medicine and system architecture
-- 🌱 I’m currently learning python
+- Hi, I’m @Wercade
+- System & Business Analyst
+- I’m interested in medicine and system architecture
 
 <!---
 Wercade/Wercade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
